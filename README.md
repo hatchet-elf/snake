@@ -1,7 +1,6 @@
 # Snake
 
 My first mobile phone was Nokia 3210
-![Nokia 3210](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Nokia_3210_3.jpg/244px-Nokia_3210_3.jpg)
 
 What a great phone. One of its many terrific features was the game Snake.
 
