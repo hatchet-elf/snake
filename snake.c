@@ -242,7 +242,7 @@ startgame:
 					return 0;
 
 				case 'm':
-					//snakelen++;
+					snakelen++;
 						break;
 
 				default:
